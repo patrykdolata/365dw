@@ -5,8 +5,8 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 public class helloWorldSteps {
-	@Given("^that site adress is \'(.*)\'$")
-	public void thatSiteAdressIs(String url) {
+	@Given("^that front page adress is \'(.*)\'$")
+	public void thatFrontPageAdressIs(String url) {
 		
 	}
 
